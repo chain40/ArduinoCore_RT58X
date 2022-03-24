@@ -2,11 +2,11 @@
     "packages": [
         {
             "name": "Racer_Tech_M3",
-            "maintainer": "Racer_Tech_M3",
+            "maintainer": "racer-tech",
             "websiteURL": "https://www.racer-tech.com/zh",
             "email": "chain40@outlook.com",
             "help": {
-                "online": "http://discuss.racer-tech.cc/"
+                "online": "https://www.racer-tech.com/zh"
             },
             "platforms": [
                 {
@@ -48,13 +48,13 @@
                         {
                             "host": "i686-mingw32",
                             "archiveFileName": "gcc-arm-none-eabi-4_9-2015q3-20150921-win32.tar.bz2",
-                            "url": "https://raw.githubusercontent.com/chain40/racer_m3_arduino/650b9f31468a192aa8b3d0d17a4c4ae95ab7f772/gcc-arm-none-eabi-4_9-2015q3-20150921-win32.tar.bz2",
+                            "url": "https://raw.githubusercontent.com/chain40/racer_m3_arduino/main/gcc-arm-none-eabi-4_9-2015q3-20150921-win32.tar.bz2",
                             "checksum": "MD5:aef73c8af927427a7640ab20b5177d7d",
                             "size": "82648992"
                         },
                         {
                             "host": "x86_64-apple-darwin",
-                            "url": "https://raw.githubusercontent.com/chain40/racer_m3_arduino/650b9f31468a192aa8b3d0d17a4c4ae95ab7f772/gcc-arm-none-eabi-4_9-2015q3-20150921-mac.tar.bz2",
+                            "url": "https://raw.githubusercontent.com/chain40/racer_m3_arduino/main/gcc-arm-none-eabi-4_9-2015q3-20150921-mac.tar.bz2",
                             "archiveFileName": "gcc-arm-none-eabi-4_9-2015q3-20150921-mac.tar.bz2",
                             "checksum": "MD5:7886163ba5a1c17b560939e3dcf1382b",
                             "size": "77455989"
