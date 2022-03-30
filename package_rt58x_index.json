@@ -10,16 +10,16 @@
             },
             "platforms": [
                 {
-                    "name": "Racer_Tech_M3 Duo (32-bits ARM Cortex-M3)",
+                    "name": "RT58X Boards (32-bits ARM Cortex-M3)",
                     "architecture": "STM32F2",
                     "version": "0.1.0",
-                    "category": "Racer_Tech_M3",
+                    "category": "RT58X Boards",
                     "url": "https://raw.githubusercontent.com/chain40/racer_m3_arduino/main/duo_board_v0.3.3.tar.gz",
                     "archiveFileName": "duo_board_v0.3.3.tar.gz",
                     "checksum": "SHA-256:E45681F09E43A055695C4576A75E6125C4CBA5BC2E1FDA636E490741401D98B3",
                     "size": "13695665",
                     "boards": {
-                        "name": "Racer_Tech_M3 Duo"
+                        "name": "RT58X Duo"
                     },
                     "toolsDependencies": [
                         {
