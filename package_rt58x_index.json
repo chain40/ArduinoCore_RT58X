@@ -16,33 +16,11 @@
                     "category": "RT58X Boards",
                     "url": "https://raw.githubusercontent.com/chain40/ArduinoCore_RT58X/develop/arduinocore-rt58x.tar.gz",
                     "archiveFileName": "arduinocore-rt58x.tar.gz",
-                    "checksum": "SHA-256:4322d9a7d343ffdf15270b87925d0e3786cb651bd54becf9d87b31defd8db768",
-                    "size": "4384281",
+                    "checksum": "SHA-256:26f661cc52338e910bdff5386893d48a2eb83710fa94b3c1ddd2c107bde816b9",
+                    "size": "8929150",
                     "boards": {
                         "name": "RT58X Duo"
-                    },
-                    "toolsDependencies": [
-                        {
-                            "packager": "racer-tech",
-                            "name": "arm-none-eabi-gcc",
-                            "version": "4.9-2015-q3"
-                        }
-                    ]
-                }
-            ],
-            "tools": [
-                {
-                    "name": "arm-none-eabi-gcc",
-                    "version": "4.9-2015-q3",
-                    "systems": [
-                        {
-                            "host": "i686-mingw32",
-                            "archiveFileName": "gcc-arm-none-eabi-4_9-2015q3-20150921-win32.tar.bz2",
-                            "url": "https://raw.githubusercontent.com/chain40/ArduinoCore_RT58X/develop/gcc-arm-none-eabi-4_9-2015q3-20150921-win32.tar.bz2",
-                            "checksum": "MD5:AEF73C8AF927427A7640AB20B5177D7D",
-                            "size": "82648992"
-                        }
-                    ]
+                    }
                 }
             ]
         }
