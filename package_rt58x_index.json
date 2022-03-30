@@ -36,11 +36,11 @@
                     "version": "4.9-2015-q3",
                     "systems": [
                         {
-                            "host": "i686-mingw32",
-                            "archiveFileName": "gcc-arm-none-eabi-4_9-2015q3-20150921-win32.tar.bz2",
+                            "checksum": "SHA-256:716cb8f93ecd821951b05840736f4c39ad0657b0a9687bfe41b89d872d36b50e",
                             "url": "https://raw.githubusercontent.com/chain40/ArduinoCore_RT58X/develop/gcc-arm-none-eabi-4_9-2015q3-20150921-win32.tar.bz2",
-                            "checksum": "MD5:aef73c8af927427a7640ab20b5177d7d",
-                            "size": "82648992"
+                            "archiveFileName": "gcc-arm-none-eabi-4_9-2015q3-20150921-win32.tar.bz2",
+                            "size": 82648992,
+                            "host": "i686-mingw32"
                         }
                     ]
                 }
