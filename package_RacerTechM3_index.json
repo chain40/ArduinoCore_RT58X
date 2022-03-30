@@ -14,10 +14,10 @@
                     "architecture": "STM32F2",
                     "version": "0.1.0",
                     "category": "Racer_Tech_M3",
-                    "url": "https://raw.githubusercontent.com/chain40/racer_m3_arduino/main/duo_board_v0.3.3.tar.gz",
-                    "archiveFileName": "duo_board_v0.3.3.tar.gz",
-                    "checksum": "SHA-256:E45681F09E43A055695C4576A75E6125C4CBA5BC2E1FDA636E490741401D98B3",
-                    "size": "13695665",
+                    "url": "https://raw.githubusercontent.com/chain40/racer_m3_arduino/main/arduinocore-rt58x.tar.gz",
+                    "archiveFileName": "arduinocore-rt58x.tar.gz",
+                    "checksum": "SHA-256:5AB039D85A23968E8AC2D7CBA180B082E579E4908CAA1C05CEEFC7556114657F",
+                    "size": "4386668",
                     "boards": {
                         "name": "Racer_Tech_M3 Duo"
                     },
