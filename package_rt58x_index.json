@@ -12,12 +12,12 @@
                 {
                     "name": "RT58X Boards (32-bits ARM Cortex-M3)",
                     "architecture": "RT58X",
-                    "version": "0.1.0",
+                    "version": "0.0.1",
                     "category": "RT58X Boards",
                     "url": "https://raw.githubusercontent.com/chain40/ArduinoCore_RT58X/develop/arduinocore-rt58x.tar.gz",
                     "archiveFileName": "arduinocore-rt58x.tar.gz",
-                    "checksum": "SHA-256:F0F3221C66CC6BC9E093000DC9B33FE34A09290ACF8883C1F3A274F4874FBDE2",
-                    "size": "8872819",
+                    "checksum": "SHA-256:4322d9a7d343ffdf15270b87925d0e3786cb651bd54becf9d87b31defd8db768",
+                    "size": "4384281",
                     "boards": {
                         "name": "RT58X Duo"
                     },
