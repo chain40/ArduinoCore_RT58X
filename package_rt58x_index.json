@@ -26,16 +26,6 @@
                             "packager": "racer-tech",
                             "name": "arm-none-eabi-gcc",
                             "version": "4.9-2015-q3"
-                        },
-                        {
-                            "packager": "arduino",
-                            "name": "avrdude",
-                            "version": "6.0.1-arduino5"
-                        },
-                        {
-                            "packager": "arduino",
-                            "name": "openocd",
-                            "version": "0.9.0-arduino"
                         }
                     ]
                 }
@@ -49,7 +39,7 @@
                             "host": "i686-mingw32",
                             "archiveFileName": "gcc-arm-none-eabi-4_9-2015q3-20150921-win32.tar.bz2",
                             "url": "https://raw.githubusercontent.com/chain40/ArduinoCore_RT58X/develop/gcc-arm-none-eabi-4_9-2015q3-20150921-win32.tar.bz2",
-                            "checksum": "MD5:aef73c8af927427a7640ab20b5177d7d",
+                            "checksum": "MD5:AEF73C8AF927427A7640AB20B5177D7D",
                             "size": "82648992"
                         }
                     ]
