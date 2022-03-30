@@ -20,7 +20,29 @@
                     "size": "8929150",
                     "boards": {
                         "name": "RT58X Duo"
-                    }
+                    },
+                    "toolsDependencies": [
+                        {
+                            "packager": "racer-tech",
+                            "name": "arm-none-eabi-gcc",
+                            "version": "4.9-2015-q3"
+                        }
+                    ]
+                }
+            ],
+            "tools": [
+                {
+                    "name": "arm-none-eabi-gcc",
+                    "version": "4.9-2015-q3",
+                    "systems": [
+                        {
+                            "host": "i686-mingw32",
+                            "archiveFileName": "gcc-arm-none-eabi-4_9-2015q3-20150921-win32.tar.bz2",
+                            "url": "https://raw.githubusercontent.com/chain40/ArduinoCore_RT58X/develop/gcc-arm-none-eabi-4_9-2015q3-20150921-win32.tar.bz2",
+                            "checksum": "MD5:aef73c8af927427a7640ab20b5177d7d",
+                            "size": "82648992"
+                        }
+                    ]
                 }
             ]
         }
