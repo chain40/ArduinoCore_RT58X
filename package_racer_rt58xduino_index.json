@@ -10,9 +10,9 @@
             },
             "platforms": [
                 {
-                    "name": "Racer_Tech_M3 Duo (32-bits ARM Cortex-M3)",
-                    "architecture": "STM32F2",
-                    "version": "0.4.0",
+                    "name": "RT58X Boards (Cortex-M3)",
+                    "architecture": "arm",
+                    "version": "0.4.1",
                     "category": "Racer_Tech_M3",
                     "url": "https://raw.githubusercontent.com/chain40/Package_ArduinoCore_RT58X/main/arduinocore-rt58x.tar.gz",
                     "archiveFileName": "arduinocore-rt58x.tar.gz",
